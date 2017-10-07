@@ -1,0 +1,23 @@
+{
+  "name": "electron-ffmpeg",
+  "version": "1.0.0",
+  "description": "基于fluent-ffmpeg的electron桌面引用",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "Electron",
+    "fluent-ffmpeg"
+  ],
+  "author": "clark",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "~1.7.8"
+  },
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.2",
+    "jquery": "^3.2.1",
+    "jquery-slimscroll": "^1.3.8"
+  }
+}
